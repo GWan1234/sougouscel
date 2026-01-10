@@ -1,0 +1,11 @@
+'chao'zhong 超重
+'fu'xing'fei'pang 腹型肥胖
+'gao'xue'ya'sui'fang 高血压随访
+'gao'yan'yin'shi 高盐饮食
+'gong'gong'wei'sheng 公共卫生
+'tang'niao'bing'sui'fang 糖尿病随访
+'wei'xian'ping'gu 危险评估
+'xue'tang'kong'zhi'bu'man'yi 血糖控制不满意
+'xue'ya'kong'zhi'bu'man'yi 血压控制不满意
+'zhuan'zhen 转诊
+'zong'he'ping'gu 综合评估

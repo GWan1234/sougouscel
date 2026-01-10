@@ -1,0 +1,10 @@
+'ji'qi 基期
+'ji'qi'bi'zhi 基期比值
+'ji'qi'cha'zhi 基期差值
+'liang'qi'bi'zhi'cha 两期比值差
+'liang'qi'bi'zhi'zeng'zhang'lv 两期比值增长率
+'xian'qi 现期
+'xian'qi'bi'zhi 现期比值
+'xian'qi'cha'zhi 现期差值
+'zeng'zhang'e 增长额
+'zeng'zhang'lv 增长率

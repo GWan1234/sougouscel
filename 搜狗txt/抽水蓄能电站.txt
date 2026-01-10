@@ -1,0 +1,12 @@
+'an'po'shi'jin'chu'shui'kou 岸坡式进出水口
+'an'ta'shi'jin'chu'shui'kou 岸塔式进出水口
+'ce'shi'jin'chu'shui'kou 侧式进出水口
+'chou'shui'xu'neng'dian'zhan 抽水蓄能电站
+'fa'dian'ku'rong 发电库容
+'hun'he'shi'chou'shui'xu'neng'dian'zhan 混合式抽水蓄能电站
+'ri'tiao'jie 日调节
+'shang'xia'shui'ku'jin'chu'shui'kou 上下水库进出水口
+'shu'shui'xi'tong'jian'zhu'wu 输水系统建筑物
+'zha'men'shu'jing'shi'jin'chu'shui'kou 闸门竖井式进出水口
+'zhou'tiao'jie 周调节
+'zong'he'xun'huan'xiao'lv 综合循环效率
