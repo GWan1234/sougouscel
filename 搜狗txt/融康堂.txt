@@ -67,6 +67,7 @@
 'huang'lian 黄连
 'huang'qi 黄芪
 'huang'qin 黄芩
+'huang'yan 黄艳
 'huo'ma'ren 火麻仁
 'huo'xiang 藿香
 'ji'li 蒺藜
@@ -82,6 +83,7 @@
 'ju'hua 菊花
 'ju'hua'gong'ju 菊花贡菊
 'ju'hua'hang'ju 菊花杭菊
+'jue'ming'zi 决明子
 'ku'shen 苦参
 'ku'xing'ren 苦杏仁
 'lai'fu'zi 莱菔子

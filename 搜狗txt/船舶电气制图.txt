@@ -1,0 +1,14 @@
+'fu'shi'tu 俯视图
+'fu'shi'tu'fan'mian 俯视图反面
+'hou'shi'tu 后视图
+'jia'ban'xia 甲板下
+'lei'wei'hao 肋位号
+'tie'han 贴焊
+'xiang'shou'bu'kan 向艏部看
+'xiang'wei'bu'kan 向艉部看
+'xiang'you'xian'kan 向右舷看
+'xiang'zuo'xian'kan 向左舷看
+'yang'shi'tu 仰视图
+'you'shi'tu 右视图
+'zhu'shi'tu 主视图
+'zuo'shi'tu 左视图

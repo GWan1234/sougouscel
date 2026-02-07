@@ -29,6 +29,7 @@
 'bai'gong'jing'dian 白宫经典
 'bai'hui'yan 白灰岩
 'bai'jin'yi'shi 白金艺石
+'bai'jing'mu'wen 柏景木纹
 'bai'lan'se 白蓝色
 'bai'lv 白绿
 'bai'lv'se 白绿色
@@ -68,6 +69,7 @@
 'ban'yan'lv 板岩绿
 'bao'ge'hui 宝格灰
 'bao'ge'li 宝格丽
+'bao'ge'li'hei 宝格丽黑
 'bao'ge'li'lan 宝格利蓝
 'bao'ma'hui 宝马灰
 'bao'shi'jie'hui 保时捷灰
@@ -104,6 +106,7 @@
 'bing'chuan'hui 冰川灰
 'bing'chuan'lan 冰川蓝
 'bing'chuan'lan'ge 冰川蓝格
+'bing'chuan'yan 冰川岩
 'bing'jing'fei'cui 冰晶翡翠
 'bing'ling 冰凌
 'bing'ning'bai 冰凝白
@@ -126,6 +129,7 @@
 'bo'na'er'lan 博纳尔蓝
 'bo'te'bai'la'mu 波特白蜡木
 'bo'te'bai'la'mu'ya'wen 波特白蜡木压纹
+'bo'wu'hui 薄雾灰
 'bo'xi'ta'nuo 波西塔诺
 'bo'xi'yin'xiang 波西印象
 'bo'ya'hui 博雅灰
@@ -145,6 +149,7 @@
 'bu'xiu'gang'la'si 不锈钢拉丝
 'bu'xiu'gang'se 不锈钢色
 'cai'se 彩色
+'cai'xin'se 彩锌色
 'cai'you'bing'lie 彩釉冰裂
 'cang'qiong'hui 苍穹灰
 'cang'zhu'lv 苍竹绿
@@ -177,6 +182,7 @@
 'chen'xi'fen 晨曦粉
 'chen'xi'hui 晨曦灰
 'chen'xi'mi 晨曦米
+'chen'yan'hei 沉砚黑
 'cheng'he'se 橙褐色
 'cheng'hong'se 橙红色
 'cheng'huang'se 橙黄色
@@ -189,6 +195,7 @@
 'chou'duan'lv 绸缎绿
 'chou'xiang'zhu'guang 抽象珠光
 'chu'ge'hui 楚格灰
+'chu'lian 初恋
 'chu'zhong 楚钟
 'chuan'jing'bai 川径白
 'chuan'jing'hui 川径灰
@@ -203,13 +210,16 @@
 'da'xiang'bai 大象白
 'da'xiang'hui 大象灰
 'da'yin 打印
+'dai'fen'se 黛粉色
 'dai'lan 黛蓝
+'dai'ya'hui 黛雅灰
 'dai'zong'yang'mu 黛棕杨木
 'dan'fei'bu'wen 淡妃布纹
 'dan'huang 淡黄
 'dan'hui'lv 淡灰绿
 'dan'lan'se 淡蓝色
 'dan'lv'se 淡绿色
+'dan'mai'bai 丹麦白
 'dan'mai'hu'tao 丹麦胡桃
 'dan'qing'se 淡青色
 'dan'ya'bai 淡雅白
@@ -230,6 +240,7 @@
 'ding'xiang'bai 丁香白
 'ding'zi'cha 丁子茶
 'dou'sha'fen 豆沙粉
+'du'duo'hui 都铎灰
 'du'ge'pao'guang 镀铬抛光
 'du'mo'bo'li 镀膜玻璃
 'du'nie'la'si 镀镍拉丝
@@ -254,11 +265,14 @@
 'fan'si'qi'ge 范斯棋格
 'fang'ge'bo'li 方格玻璃
 'fang'ge'diao'ke'bo'li 方格雕刻玻璃
+'fang'hu'tao'mu'wen 仿胡桃木纹
 'fang'jin'si'rong'bu'wen 仿金丝绒布纹
+'fang'xiang'mu'wen 仿橡木纹
 'fei'cui'lv 翡翠绿
 'fei'gang'hua 非钢化
 'fei'he'hu'tao 绯褐胡桃
 'fei'hong'hu'tao 绯红胡桃
+'fei'li'hu'tao 斐丽胡桃
 'fei'ni'cheng 菲尼橙
 'fei'si'yin'hui'bo 非丝印灰玻
 'fei'yan 飞烟
@@ -307,11 +321,17 @@
 'gao'guang 高光
 'gao'guang'gu'lan 高光钴蓝
 'gao'guang'hui 高光灰
+'gao'guang'mai'ya'hui 高光麦芽灰
 'gao'guang'miu'si'hui 高光缪斯灰
+'gao'guang'nai'ka'zong 高光奶咖棕
 'gao'guang'qian'yan'hui 高光浅烟灰
+'gao'guang'shi'wen 高光石纹
+'gao'guang'xi'rong'jing'sha'hui 高光细绒晶沙灰
 'gao'guang'ye'liu'jin 高光夜流金
+'gao'guang'yun'bai'zhi'meng 高光云白织梦
 'gao'guang'yun'mu'hui 高光云暮灰
 'gao'guang'yun'wu'lan 高光云雾蓝
+'gao'guang'zhong'mu'hui 高光中木灰
 'gao'ji'bai 高级白
 'gao'ji'hui 高级灰
 'gao'yu'bai 缟羽白
@@ -355,12 +375,15 @@
 'hai'yan'nai'shuang 海盐奶霜
 'hai'ye'lan 海夜蓝
 'hao'hui 皓灰
+'hao'shen'se 号深色
 'hao'shi'hui 皓石灰
 'hao'yue'bai 皓月白
+'hao'yue'jin 皓月金
 'hao'yue'yin 皓月银
 'he'hua'bai 荷花白
 'he'lan'bai 荷兰白
 'he'lan'hui 荷兰灰
+'he'neng'ning'bo'mu'wen 合能宁波木纹
 'he'se 褐色
 'he'shi'hui 河石灰
 'hei'bai 黑白
@@ -443,6 +466,7 @@
 'huang'bu'wen 黄布纹
 'huang'fen'se 黄粉色
 'huang'feng'mu 黄枫木
+'huang'gu'tong 黄古铜
 'huang'hua'li 黄花梨
 'huang'hui'se 黄灰色
 'huang'li'mu'pi 黄梨木皮
@@ -487,6 +511,7 @@
 'hui'ying'an'wen 灰影暗纹
 'hui'you'sha 灰油砂
 'hui'zao'se 灰藻色
+'hui'zi'se 灰紫色
 'hun'se 混色
 'hun'you'shan'he'tao 混油山核桃
 'huo'li'cheng 活力橙
@@ -495,6 +520,7 @@
 'ji'bing'yu 极冰玉
 'ji'di'bai 极地白
 'ji'di'zhi'wa 极地之洼
+'ji'fu'hui 肌肤灰
 'ji'guang 激光
 'ji'guang'bai 极光白
 'ji'guang'hui 极光灰
@@ -542,7 +568,9 @@
 'jin'xiu'mu'dan 锦绣牡丹
 'jin'you'mu 金柚木
 'jing'bai 晶白
+'jing'gang'sha 精钢砂
 'jing'mi'hui 静谧灰
+'jing'mi'lan 静谧蓝
 'jing'mi'zi 静谧紫
 'jing'sha'fen 晶沙粉
 'jing'sha'hui 晶沙灰
@@ -552,6 +580,7 @@
 'ju'hei 橘黑
 'ju'hong'se 橘红色
 'ju'lv'se 橘绿色
+'ju'se 桔色
 'ju'se 橘色
 'juan'si 绢丝
 'juan'si'hui'bo 绢丝灰玻
@@ -559,7 +588,9 @@
 'jue'shi'hui 爵士灰
 'jun'lv'se 军绿色
 'ka'bu'ji'luo 卡布基洛
+'ka'bu'ji'nuo 卡布基诺
 'ka'bu'li'lan 卡布里蓝
+'ka'bu'qi'nuo 卡布奇诺
 'ka'fei'ni'si'mu 咖啡尼斯木
 'ka'fei'se 咖啡色
 'ka'fei'se'pi'wen 咖啡色皮纹
@@ -600,6 +631,8 @@
 'ke'xi'jia'an'jin 科西嘉暗金
 'kong'que'lan 孔雀蓝
 'la'jiao'ying'tao'se 辣椒樱桃色
+'la'si'jin 拉丝金
+'la'si'yin 拉丝银
 'lai'en'huan'xiang 莱恩幻橡
 'lai'er'bu'wen 莱尔布纹
 'lai'si 莱斯
@@ -630,8 +663,10 @@
 'leng'shuang'hui 冷霜灰
 'leng'yun'bai 冷韵白
 'li'ang'hui 里昂灰
+'li'fang'ge'yin 立方格银
 'li'ge'bu'wen 丽格布纹
 'li'hui 黎灰
+'li'si'yu 丽思雨
 'li'ying'zong 笠影棕
 'li'zhi'pi'wen 荔枝皮纹
 'li'zhi'wen'wu'shan 荔枝纹乌山
@@ -656,6 +691,7 @@
 'ling'bai'yin'sha 菱白隐纱
 'ling'ge 菱格
 'ling'ge'bo'li 菱格玻璃
+'ling'zhi'xing 灵之星
 'liu'chuan'bai 流川白
 'liu'feng'xie'yi 榴枫邂意
 'liu'guang'bai 流光白
@@ -682,6 +718,8 @@
 'luo'man'qian'ka 罗曼浅咖
 'luo'ri'cheng 落日橙
 'luo'ri'xia'guang 落日霞光
+'luo'se 裸色
+'luo'xing'yu 落星玉
 'luo'ying'dan'hui 落英淡灰
 'lv'bai'se 绿白色
 'lv'ben'shai 铝本色
@@ -715,6 +753,7 @@
 'mei'gui'jin'tuan'wen 玫瑰金团纹
 'mei'ying'hei 魅影黑
 'mei'ying'hu'tao 魅影胡桃
+'mei'ying'hui 魅影灰
 'mei'ying'ka 魅影咖
 'mei'ying'ni'si 魅影尼斯
 'meng'huan'lan 梦幻蓝
@@ -766,12 +805,14 @@
 'mo'lan'di'hui 莫兰迪灰
 'mo'lan'di'lan 莫兰迪蓝
 'mo'lan'di'qing 莫兰迪青
+'mo'li'bai 茉莉白
 'mo'li'si'hu'tao 莫里斯胡桃
 'mo'lv'se 墨绿色
 'mo'na'ge'ka 摩纳哥咖
 'mo'nai'hua'yuan 莫奈花园
 'mo'nai'lan 莫奈蓝
 'mo'nai'yin'xiang 莫奈印象
+'mo'rou'hui 墨柔灰
 'mo'se'mu 墨瑟木
 'mo'se'yu'lin 墨色雨林
 'mo'sha 磨砂
@@ -790,6 +831,7 @@
 'mu'feng 沐风
 'mu'guang'hei 暮光黑
 'mu'lan'ge'shan 木阑格栅
+'mu'ran'hui'xiang 暮染灰橡
 'mu'se 暮色
 'mu'se 木色
 'mu'si'ka 慕斯咖
@@ -801,6 +843,7 @@
 'mu'yun'sha 暮云砂
 'na'ke'yu'mu 纳科榆木
 'na'mi'hui 纳米灰
+'na'mi'yin 纳米银
 'na'po'li'huang'xiang 拿坡里黄橡
 'na'wei'er'xiang'mu 纳韦尔橡木
 'na'xiang'hu'tao 那香胡桃
@@ -814,6 +857,7 @@
 'nai'lao'bai 奶酪白
 'nai'lao'huang 奶酪黄
 'nai'lv'se 奶绿色
+'nai'shuang'bai 奶霜白
 'nai'xi'bai 奶昔白
 'nai'you'bai 奶油白
 'nai'you'bai'guang'nian 奶油白光年
@@ -824,8 +868,10 @@
 'nei'diao 内雕
 'ni'bo'er'jin 尼泊尔金
 'ni'huang'se 泥黄色
+'ni'luo'hei 尼罗黑
 'ni'si'mu 尼斯木
 'ni'si'mu'wen 尼斯木纹
+'ning'zhi'bai 凝脂白
 'niu'you'guo'lv 牛油果绿
 'niu'yue'zong 纽约棕
 'nong'qing'hua'fu 浓情华夫
@@ -867,8 +913,14 @@
 'ping'guo'hui 苹果灰
 'ping'guo'jin 苹果金
 'ping'guo'mu 苹果木
+'po'jing'bai 珀境白
+'po'jing'zong 珀境棕
+'pu'er'zong 普洱棕
+'pu'la'da'lv 普拉达绿
 'pu'ya 普雅
+'qi'pan 棋盘
 'qi'shi'lan 骑士蓝
+'qi'shi'yun'sheng 栖石云生
 'qi'ta 其它
 'qian'bai 浅白
 'qian'bai'zhu'guang 浅白珠光
@@ -912,12 +964,14 @@
 'qian'xing'pi'wen 浅杏皮纹
 'qian'ya'hui 浅雅灰
 'qian'yan'hui 浅烟灰
+'qian'yun'hu'tao 浅韵胡桃
 'qian'yun'hui 浅云灰
 'qian'zong'se 浅棕色
 'qiang'hui'se 枪灰色
 'qiao'hui 樵灰
 'qiao'ke'li'hei'se 巧克力黑色
 'qiao'ke'li'hei'se 巧克力黒色
+'qin'yue'bai 沁月白
 'qing'bai 青白
 'qing'bo 清玻
 'qing'ci'hui 青磁灰
@@ -928,6 +982,7 @@
 'qing'hui 青灰
 'qing'hui'se 青灰色
 'qing'kong'lan 晴空蓝
+'qing'lan'hu'tao 轻岚胡桃
 'qing'qing'xing'yun 青青星云
 'qing'sha'xiao'se'hui 轻砂萧瑟灰
 'qing'sha'yan'wu'fen 轻纱嫣雾粉
@@ -936,13 +991,17 @@
 'qing'yan'yun'meng 轻烟云梦
 'qing'ye'sha 青叶砂
 'qing'you'hui 清幽灰
+'qing'yu'xiang'mu 清瑜橡木
 'qing'zhi'lv 轻枝绿
+'qing'zhu'lv 青竹绿
 'qiong'liu 琼柳
 'qiong'lou'yu'yu 琼楼玉宇
 'qiong'mu'bing 穹幕冰
 'qiu'mo'hu'tao 秋沫胡桃
 'qiu'mu'hu'tao 秋沐胡桃
 'qiu'ran'xiang'mu 秋染橡木
+'qiu'ya'hui'xiang 秋雅灰橡
+'qiu'ya'xiang'mu 秋雅橡木
 'qiu'ye 秋叶
 'qiu'yun'he'tao 秋韵核桃
 'qiu'yun'hu'po 秋韵琥珀
@@ -950,6 +1009,7 @@
 'qu'wei'dong'wu'yuan 趣味动物园
 'ran'se'bai'xiang 染色白橡
 'ri'luo'zong 日落棕
+'rong'wu'hui 绒雾灰
 'rong'yan 熔岩
 'rou'duan'xiang'bin 柔缎香槟
 'rou'guang'bei'ke'fen 柔光贝壳粉
@@ -982,6 +1042,7 @@
 'sha'qiu'yan 砂丘岩
 'sha'wen'hui'shan'yin 砂纹灰闪银
 'sha'yin 砂银
+'shan'guang'hui 闪光灰
 'shan'hui 山灰
 'shan'jing'hui'lan 闪晶灰蓝
 'shan'shui'shu'zhi 山水树脂
@@ -992,6 +1053,7 @@
 'shan'ying'bai'la 山影白蜡
 'shan'ying'hu'tao 山影胡桃
 'shan'ying'you'qi 山影油漆
+'shao'guang'hai'tang 韶光海棠
 'shen'bai 深白
 'shen'chuan'yan 深川岩
 'shen'dai'hui 深黛灰
@@ -1026,6 +1088,7 @@
 'sheng'hao 生壕
 'shi'hui'yan 石灰岩
 'shi'liu'hong 石榴红
+'shi'mo'hui 石墨灰
 'shi'mo'lv 石墨绿
 'shi'mu'ying'tao 实木樱桃
 'shi'shang'hei 石尚黑
@@ -1037,6 +1100,8 @@
 'shu'qin'zong 竖琴棕
 'shu'tiao'mu'wen 竖条木纹
 'shuang'hui'se 霜灰色
+'shuang'qing'hai'tang 霜清海棠
+'shuang'se 双色
 'shui'an'mu'wen 水岸木纹
 'shui'bo'shan'wen 水波山纹
 'shui'guang 水光
@@ -1044,6 +1109,7 @@
 'shui'guang'yin'si 水光银丝
 'shui'guo'hong 水果红
 'shui'jing 水晶
+'shui'jing'bai 水晶白
 'shui'jing'hu'po 水晶琥珀
 'shui'jing'tie'hui 水晶铁灰
 'shui'jing'you'sha 水晶油砂
@@ -1057,6 +1123,7 @@
 'shui'wu'mo 水雾墨
 'shui'yin'hui 水银灰
 'shui'yun'bai 水韵白
+'shui'yun'bai'wu 水韵白无
 'shui'yun'li'mu 水韵梨木
 'shui'yun'mo'se 水韵墨色
 'si'lu'bai 丝鹭白
@@ -1076,6 +1143,7 @@
 'su'mi'bai 酥米白
 'su'ran'bu'wen 素染布纹
 'su'se 素色
+'su'se'bu'wen 素色布纹
 'su'se'shi'wen 素色石纹
 'su'xing'yang'mu 素杏杨木
 'su'yue'bai 素悦白
@@ -1089,9 +1157,12 @@
 'tai'kong'yin 太空银
 'tai'lang'hui 钛狼灰
 'tai'lang'hui 钛郎灰
+'tai'si'hui 钛丝灰
+'tai'yin'hui 钛银灰
 'tan'he'se 檀褐色
 'tan'hei'se 炭黑色
 'tan'hui 碳灰
+'ti'xiang'hu'tao 缇香胡桃
 'tian'e'rong 天鹅绒
 'tian'ji'hui 天际灰
 'tian'lan 天蓝
@@ -1141,9 +1212,13 @@
 'wei'ye'na'jin 维也纳金
 'wen'ling'cheng'se 温岭橙色
 'wen'sha 温莎
+'wen'sha'lan 温莎蓝
 'wu'feng 雾枫
 'wu'hou'hua'yuan 午后花园
 'wu'hou'ka 午后咖
+'wu'hui'se 雾灰色
+'wu'jin'bei'mu 乌金焙木
+'wu'ning'yan 雾凝岩
 'wu'shan'wen 乌山纹
 'wu'shi'wen 雾石纹
 'wu'si'hui 雾丝灰
@@ -1154,6 +1229,7 @@
 'wu'ying'xiang'mu 雾影橡木
 'wu'yun'qian'hui 乌云浅灰
 'xi'feng'hu'tao 熹风胡桃
+'xi'guang'bai 曦光白
 'xi'hua'hui 希华灰
 'xi'la'ya'bai 希腊雅白
 'xi'lan'hui 锡蓝灰
@@ -1171,6 +1247,7 @@
 'xia'gu'ying'tao 峡谷樱桃
 'xia'gu'ying'tao'zuo'jiu 峡谷樱桃做旧
 'xia'gu'ying'tao'zuo'jiu'miao'jin 峡谷樱桃做旧描金
+'xiang'bin'hui'se 香槟灰色
 'xiang'bin'jin 香槟金
 'xiang'bin'se 香槟色
 'xiang'bin'xing'se 香槟杏色
@@ -1196,7 +1273,9 @@
 'xie'ke'jin 蟹壳金
 'xin'he'jin 锌合金
 'xin'yu'du'bai 新鱼肚白
+'xin'zheng'huang'mu'wen 新郑黄木纹
 'xin'zhou'huang'xiang 忻州黄橡
+'xing'bai 杏白
 'xing'bai'miao'jin 杏白描金
 'xing'bai'se 杏白色
 'xing'bai'se'fu'diao 杏白色浮雕
@@ -1206,6 +1285,7 @@
 'xing'guang'hui 星光灰
 'xing'hai 星海
 'xing'hai'hui 星海灰
+'xing'he'hui 星河灰
 'xing'he'yin 星河银
 'xing'hui'se'guang'nian 杏灰色光年
 'xing'hui'se'yan'jiang 杏灰色岩浆
@@ -1219,6 +1299,7 @@
 'xing'yue'bai 星月白
 'xing'yun 星云
 'xing'yun'hei 星陨黑
+'xing'yun'hui 星云灰
 'xing'zuan'tian'kong 星钻天空
 'xuan'cai'jin 炫彩金
 'xuan'cai'yin 炫彩银
@@ -1234,12 +1315,15 @@
 'xue'hua'sha 雪花砂
 'xue'hua'yan 雪花岩
 'xue'ning 雪凝
+'xue'rong'bai 雪绒白
+'xue'shan'bai 雪山白
 'xue'shan'shi 雪山石
 'xue'xiang'mu 雪橡木
 'xue'yan 雪岩
 'xue'yun 雪云
 'xue'zhong'lie'ren 雪中猎人
 'xun'hei'xiang'mu 熏黑橡木
+'xun'wen'you'jia'li 熏纹尤加利
 'xun'yi'cao'se 薰衣草色
 'ya'bai 哑白
 'ya'bai 雅白
@@ -1269,6 +1353,7 @@
 'ya'jin'se 哑金色
 'ya'ke'li'bai 亚克力白
 'ya'ma'hui 亚麻灰
+'ya'qing'hui 亚青灰
 'ya'sha'jian'ou 亚厦简欧
 'ya'shi'bai 雅士白
 'ya'wen 压纹
@@ -1280,6 +1365,7 @@
 'ya'zhi'hei 雅致黑
 'ya'zhi'hui 雅致灰
 'yan'bo 烟波
+'yan'chuan'hui 岩川灰
 'yan'fen 烟粉
 'yan'fen'hong 盐粉红
 'yan'hei'xiang'mu 岩黑橡木
@@ -1309,6 +1395,7 @@
 'yan'yu'hui 烟雨灰
 'yan'yun'hui 砚云灰
 'yan'zhi'hong 胭脂红
+'yan'zhi'hui 胭脂灰
 'yan'zhu'hui 砚竹灰
 'yan'zhu'yin'si 烟竹银丝
 'yan'zi'hui 烟紫灰
@@ -1316,6 +1403,7 @@
 'yang'guang'yi'hao 阳光一号
 'yang'rong'fen 羊绒粉
 'yang'rong'hui 羊绒灰
+'yang'tan'shen'hui 氧碳深灰
 'yang'zhi'bai 羊脂白
 'yang'zhi'bai'yu 羊脂白玉
 'yao'chi'xue 瑶池雪
@@ -1325,10 +1413,12 @@
 'yao'yan'jin 曜岩金
 'ye'liu'jin 夜流金
 'ye'qu'lan 夜曲蓝
+'ye'zong'hui 椰棕灰
 'yi'bei 伊贝
 'yi'da'li'bai 意大利白
 'yi'hao'huang'xiang 一号黄橡
 'yi'li'sha'bai 伊丽莎白
+'yi'mi'yang'guang 一米阳光
 'yi'mo'shi 意墨石
 'yi'ni'hui 旖旎灰
 'yi'shu'fu'gu'hua'niao 艺术复古花鸟
@@ -1356,6 +1446,7 @@
 'yin'si'wen 银丝纹
 'yin'si'yao'ying 银丝曜影
 'yin'wu'hui 银雾灰
+'yin'xing'hei 银星黑
 'yin'zhuang'su'guo 银装素裹
 'ying'er'lan 婴儿蓝
 'ying'guang'xiang'se 荧光橡色
@@ -1368,9 +1459,12 @@
 'ying'shuang 映霜
 'ying'tao'mu 樱桃木
 'ying'tao'se 樱桃色
+'ying'xue'bai 映雪白
+'you'li'bai 幼梨白
 'you'ying'pin'hua 幽影拼花
 'yu'bai 玉白
 'yu'du'bai 鱼肚白
+'yu'ji 雨霁
 'yu'jin'bai 郁金白
 'yu'jin'hui 余烬灰
 'yu'jin'yan 余烬岩
@@ -1404,6 +1498,7 @@
 'yue'yan'hui 月岩灰
 'yue'yin'bai'xiang 月银白橡
 'yue'ying'bai 月影白
+'yue'ying'hei 月影黑
 'yue'ying'hui'xiang 月影灰橡
 'yun'bai 韵白
 'yun'bai'zhi'meng 云白织梦
@@ -1452,6 +1547,7 @@
 'zhong'ka 中咖
 'zhong'mi'hui 中米灰
 'zhong'mu'hui 中木灰
+'zhong'wen'you'jia'li 重纹尤加利
 'zhong'zong'se 中棕色
 'zhou'si'hei 宙斯黑
 'zhu'guang'bai 珠光白
@@ -1465,6 +1561,7 @@
 'zhu'guang'shen'hui 珠光深灰
 'zhu'guang'ying'tao 烛光樱桃
 'zhu'liu'jin 竹鎏金
+'zhu'tan'hui 竹炭灰
 'zhu'ye 竹叶
 'zhu'ye'lv 竹叶绿
 'zhu'yin'lv 竹隐绿

@@ -348,6 +348,7 @@
 'xiu'jin'ji 休津级
 'xu'ri'ji 旭日级
 'xue'beng'ji 雪崩级
+'xue'yue'ji 血月级
 'yan'jing'she'ji 眼镜蛇级
 'ye'mo'xia'ji 夜魔侠级
 'ye'shen'ji 夜神级

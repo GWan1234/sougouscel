@@ -1,6 +1,13 @@
+'bao'fei 报废
+'deng'zhao'shang'gai'you 灯罩上盖右
+'deng'zhao'shang'gai'zuo 灯罩上盖左
+'deng'zhao'you 灯罩右
+'deng'zhao'zuo 灯罩左
 'di'hou'you 底后右
 'di'hou'zuo 底后左
 'di'qian'gai 底前盖
 'di'you'ce 底右侧
 'di'zuo'ce 底左侧
 'dong'ruan 东软
+'zu'jian'you 组件右
+'zu'jian'zuo 组件左

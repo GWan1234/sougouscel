@@ -1,5 +1,10 @@
+'gong'min'shen'fen'hao'ma 公民身份号码
+'gong'min'shen'fen'zheng'jian'bian'hao 公民身份证件编号
 'gong'zheng'hang'ye 公证行业
 'gong'zheng'ren'yuan 公证人员
 'gong'zheng'shu 公证书
 'gong'zheng'yuan 公证员
 'gong'zheng'yuan'zhu'li 公证员助理
+'hu'ji'zhu'xiao'zheng'ming 户籍注销证明
+'qin'shu'guan'xi'zheng'ming'biao 亲属关系证明表
+'wei'tuo'shu 委托书

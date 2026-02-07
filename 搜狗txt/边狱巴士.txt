@@ -1,9 +1,12 @@
+'a'lai'ye'shi 阿赖耶识
+'a'liang'ye 阿良夜
 'ao'ti'si 奥提斯
 'bian'yu'ba'shi 边狱巴士
 'dan'ding 但丁
 'fu'shi'de 浮士德
 'ge'li'gao'er 格里高尔
 'hong'lu 鸿璐
+'li'en 里恩
 'li'xiang 李箱
 'liang'xiu 良秀
 'luo'jia 罗佳
@@ -11,4 +14,5 @@
 'tang'ji'he'de 堂吉诃德
 'xi'si'ke'li'fu 希斯克利夫
 'xin'ke'lai 辛克莱
+'yan'jian'ye 盐见夜
 'yi'shi'ma'li 以实玛利

@@ -163,6 +163,7 @@
 'cang'lu'man 苍鹭鳗
 'cang'mang'fei 苍茫鲱
 'cang'pi'hai'shen 苍皮海参
+'cang'tian'you'yu 苍天鱿鱼
 'cang'yu'ren'wang 苍玉仁王
 'cang'yu'shan'hu 苍玉珊瑚
 'cao'sha 草鲨
@@ -205,6 +206,7 @@
 'chu'xie 楚蟹
 'chu'xing'zhe 处刑者
 'chuan'chong 船虫
+'chuan'lu'mao'li'yu 船路矛丽鱼
 'chuan'ta 船鳎
 'chuan'zhang'sheng'bei 船长圣杯
 'chui'jian'yu 吹箭鱼
@@ -354,6 +356,7 @@
 'feng'rao'hong'jiang 丰饶虹鳉
 'feng'shen'yu 风神鱼
 'feng'tu'man'yu 风途鳗鱼
+'feng'wei'qi'qing 凤尾鲯鲭
 'fo'en'a'mu 佛恩阿穆
 'fo'en'mi'ke 佛恩米克
 'fu'bing'yu 浮冰鱼
@@ -604,6 +607,7 @@
 'huang'jin'gu'she'yu 黄金骨舌鱼
 'huang'jin'jian'wen'lu 黄金尖吻鲈
 'huang'jin'long'xia 黄金龙虾
+'huang'jin'man 黄金鳗
 'huang'jin'qiu 黄金鳅
 'huang'jin'shi'ban'yu 黄金石斑鱼
 'huang'jin'yu 皇金鱼
@@ -742,6 +746,7 @@
 'ju'nian'yu 巨鲶鱼
 'ju'sha 巨鲨
 'ju'sha 锯鲨
+'ju'she'tou'li 巨蛇头鳢
 'ju'shen'ju'gai'yu 巨身锯盖鱼
 'ju'shi'an'kang 巨食鮟鱇
 'ju'wen'zhi'li 巨吻脂鲤
@@ -1012,6 +1017,7 @@
 'na'ru'nai'zhang'yu 纳茹奈章鱼
 'nai'hao 奶蚝
 'nan'fang'gou'yu 南方狗鱼
+'nan'gua'ya'tai'yang'yu 南瓜芽太阳鱼
 'nan'ke'lu'xi'ya'xue'yu 南珂露西亚鳕鱼
 'nei'jiao'shi 内角石
 'nei'lu'ci'yu 内陆刺鱼
@@ -1207,6 +1213,7 @@
 'she'shui'yu 射水鱼
 'she'tou'li 蛇头鳢
 'she'tou'yu 蛇头鱼
+'shen'ao'de'dai'yan'ren 深奥的代言人
 'shen'ao'de'zheng'ren 深奥的证人
 'shen'hai'man 深海鳗
 'shen'hai'ping'yu 深海平鱼
@@ -1355,6 +1362,7 @@
 'tiao'wen'ya'qian'yu 条纹牙签鱼
 'tiao'xia'hu 跳虾虎
 'tie'bing 铁饼
+'tie'hei'gu'she'yu 铁黑骨舌鱼
 'tie'suo 铁索
 'ting'yuan'tiao'yu 庭园跳鱼
 'tong'he'ta 铜褐鳎
@@ -1394,6 +1402,7 @@
 'wang'fei'de'zhu'shan 王妃的珠扇
 'wang'guan'zhi'li 王冠脂鲤
 'wang'jia'pi'pa'yu 王家琵琶鱼
+'wang'qin'dun'kou'yuan 王亲钝口螈
 'wang'shi'gui 王室鲑
 'wang'wen'sha 网纹鲨
 'wang'yu 王鱼
@@ -1580,6 +1589,7 @@
 'yao'huo'yu 妖祸鱼
 'yao'jing'yi'long 妖精翼龙
 'yao'juan'sha'shou 咬鹃杀手
+'yao'yao 鳐鳐
 'ye'cao'yu 叶草鱼
 'ye'cha'yu 夜叉鱼
 'ye'dao'shen 夜刀神
@@ -1785,6 +1795,7 @@
 'zi'gui'yu 紫鬼鱼
 'zi'jiao'wo'niu 紫角蜗牛
 'zi'ning'dao'li'yu 自凝岛鲤鱼
+'zi'she'jian 紫舌尖
 'zi'shui'xia'hu 紫水虾虎
 'zi'yu 紫鱼
 'zi'yu 鲻鱼

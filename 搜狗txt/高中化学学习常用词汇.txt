@@ -1,5 +1,5 @@
-'a'fu'jia'de'luo'chang'shu 阿伏伽德罗常数
-'a'fu'jia'de'luo'ding'lv 阿伏伽德罗定律
+'a'fu'jia'de'luo'chang'shu 阿伏加德罗常数
+'a'fu'jia'de'luo'ding'lv 阿伏加德罗定律
 'an'ji 氨基
 'an'ji'suan 氨基酸
 'an'ji'suan'suo'ju'fan'ying 氨基酸缩聚反应
@@ -209,9 +209,9 @@
 'ji'jiu'xiang 急救箱
 'ji'qi'ping 集气瓶
 'ji'xing'jian 极性键
+'jia'ceng'dian'zi 价层电子
+'jia'ceng'dian'zi'pai'bu 价层电子排布
 'jia'cheng'fan'ying 加成反应
-'jia'dian'zi 价电子
-'jia'dian'zi'pai'bu 价电子排布
 'jia'dian'zi'pai'bu'shi 价电子排布式
 'jia'fei 钾肥
 'jia'hao 加号
