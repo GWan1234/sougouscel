@@ -227,43 +227,43 @@ mydata[1] = new Array();
 mydata[2] = new Array();
 mydata[3] = new Array();
 mydata[4] = new Array();
-var xTime = ['01.02','01.08','01.14','01.20','01.26','02.01','02.07']
-mydata[1][0] = [968,844,985,219,272,140,1757985];
-mydata[1][1] = [657,641,375,829,685,858,1467431];
-mydata[1][2] = [355,222,128,539,977,910,444030];
-mydata[1][3] = [338,730,960,729,594,901,264227];
-mydata[1][4] = [715,395,740,675,630,753,230648];
-mydata[1][5] = [691,597,596,676,716,769,52174];
-mydata[1][6] = [716,373,409,991,201,995,36313];
-mydata[1][7] = [849,457,216,877,897,193,1728];
-mydata[1][8] = [787,234,823,747,863,417,1653];
-mydata[2][0] = [647,577,713,386,252,342,63625];
-mydata[2][1] = [138,843,839,635,518,555,32956];
-mydata[2][2] = [403,234,828,713,224,930,20724];
-mydata[2][3] = [707,974,386,824,850,282,6761];
-mydata[2][4] = [917,637,416,740,383,279,2227];
-mydata[2][5] = [156,930,757,769,315,909,1673];
-mydata[2][6] = [111,354,752,851,890,270,792];
-mydata[2][7] = [405,293,404,232,906,528,210];
-mydata[2][8] = [161,613,502,448,437,351,209];
-mydata[3][0] = [630,354,889,946,994,271,33627];
-mydata[3][1] = [225,150,200,882,820,416,6147];
-mydata[3][2] = [791,831,671,542,681,560,4440];
-mydata[3][3] = [712,986,753,115,218,659,1322];
-mydata[3][4] = [544,280,272,946,628,609,1255];
-mydata[3][5] = [297,257,863,185,203,857,871];
-mydata[3][6] = [357,328,907,457,210,726,213];
-mydata[3][7] = [774,901,556,444,443,237,153];
-mydata[3][8] = [904,155,223,657,170,342,107];
-mydata[4][0] = [315,615,522,487,561,150,25650];
-mydata[4][1] = [997,759,308,859,845,411,8263];
-mydata[4][2] = [716,201,640,622,559,751,6475];
-mydata[4][3] = [347,332,652,804,677,995,6389];
-mydata[4][4] = [942,580,149,164,237,220,2552];
-mydata[4][5] = [407,453,736,829,841,297,2323];
-mydata[4][6] = [880,837,956,187,696,801,841];
-mydata[4][7] = [499,411,903,138,933,461,834];
-mydata[4][8] = [790,280,694,441,985,370,184];
+var xTime = ['02.05','02.11','02.17','02.23','03.01','03.07','03.13']
+mydata[1][0] = [531,614,273,753,621,675,1757985];
+mydata[1][1] = [707,396,198,793,856,276,1467431];
+mydata[1][2] = [258,241,157,405,328,451,444030];
+mydata[1][3] = [366,840,707,619,109,405,264227];
+mydata[1][4] = [125,644,602,506,193,468,230648];
+mydata[1][5] = [911,625,983,183,377,603,52174];
+mydata[1][6] = [758,984,899,857,777,755,36313];
+mydata[1][7] = [132,936,896,189,340,224,1728];
+mydata[1][8] = [541,607,964,247,225,974,1653];
+mydata[2][0] = [553,250,617,154,656,711,63625];
+mydata[2][1] = [522,567,335,504,650,612,32956];
+mydata[2][2] = [106,408,596,906,265,373,20724];
+mydata[2][3] = [660,298,308,556,388,548,6761];
+mydata[2][4] = [680,829,155,643,976,280,2227];
+mydata[2][5] = [617,529,431,233,583,988,1673];
+mydata[2][6] = [845,105,554,179,510,204,792];
+mydata[2][7] = [692,516,512,288,422,678,210];
+mydata[2][8] = [561,982,876,770,538,263,209];
+mydata[3][0] = [318,217,992,373,761,968,33627];
+mydata[3][1] = [553,377,496,885,511,980,6147];
+mydata[3][2] = [872,355,985,425,435,494,4440];
+mydata[3][3] = [530,126,911,943,315,332,1322];
+mydata[3][4] = [620,777,314,495,546,752,1255];
+mydata[3][5] = [658,764,870,650,136,630,871];
+mydata[3][6] = [617,590,907,113,475,418,213];
+mydata[3][7] = [993,346,673,978,672,107,153];
+mydata[3][8] = [472,201,134,382,143,349,107];
+mydata[4][0] = [615,663,126,830,158,572,25650];
+mydata[4][1] = [582,717,336,451,366,373,8263];
+mydata[4][2] = [981,884,864,888,898,338,6475];
+mydata[4][3] = [305,891,584,879,868,255,6389];
+mydata[4][4] = [886,340,357,921,623,400,2552];
+mydata[4][5] = [270,237,964,296,968,122,2323];
+mydata[4][6] = [769,549,739,104,900,105,841];
+mydata[4][7] = [378,881,890,241,769,787,834];
+mydata[4][8] = [479,975,678,963,853,545,184];
 </script>
 <div id="hot_word_show_left">
     <div id="hot_word_title">
@@ -272,51 +272,51 @@ mydata[4][8] = [790,280,694,441,985,370,184];
 					    <div id="hot_word_list">
  
 		<ul class='hot_tag_1'>
-			<li id="w_id_117922457"><a href='/dict/sogou_search.php?query=%BF%EC%C0%D6&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">1757985</span>快乐</a></li>
-			<li id="w_id_103995062"><a href='/dict/sogou_search.php?query=%D5%E6%BA%C3&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">1467431</span>真好</a></li>
-			<li id="w_id_104217106"><a href='/dict/sogou_search.php?query=%C6%F0%B4%B2&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">444030</span>起床</a></li>
-			<li id="w_id_103981702"><a href='/dict/sogou_search.php?query=%CA%AE%D2%BB&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">264227</span>十一</a></li>
-			<li id="w_id_104221850"><a href='/dict/sogou_search.php?query=%B6%AC%CC%EC&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">230648</span>冬天</a></li>
-			<li id="w_id_103954692"><a href='/dict/sogou_search.php?query=%F3%A6%D0%B7&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">52174</span>螃蟹</a></li>
-			<li id="w_id_111695737"><a href='/dict/sogou_search.php?query=%B9%FD%BD%DA&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">36313</span>过节</a></li>
-			<li id="w_id_109985602"><a href='/dict/sogou_search.php?query=%CE%E2%D0%E3%B2%A8&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">1728</span>吴秀波</a></li>
-			<li id="w_id_113263685"><a href='/dict/sogou_search.php?query=%B9%E2%B9%F7%BD%DA&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">1653</span>光棍节</a></li>
+			<li id="w_id_117922457"><a href='/dict/sogou_search.php?query=%BF%EC%C0%D6&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">1757985</span>快乐</a></li>
+			<li id="w_id_103995062"><a href='/dict/sogou_search.php?query=%D5%E6%BA%C3&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">1467431</span>真好</a></li>
+			<li id="w_id_104217106"><a href='/dict/sogou_search.php?query=%C6%F0%B4%B2&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">444030</span>起床</a></li>
+			<li id="w_id_103981702"><a href='/dict/sogou_search.php?query=%CA%AE%D2%BB&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">264227</span>十一</a></li>
+			<li id="w_id_104221850"><a href='/dict/sogou_search.php?query=%B6%AC%CC%EC&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">230648</span>冬天</a></li>
+			<li id="w_id_103954692"><a href='/dict/sogou_search.php?query=%F3%A6%D0%B7&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">52174</span>螃蟹</a></li>
+			<li id="w_id_111695737"><a href='/dict/sogou_search.php?query=%B9%FD%BD%DA&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">36313</span>过节</a></li>
+			<li id="w_id_109985602"><a href='/dict/sogou_search.php?query=%CE%E2%D0%E3%B2%A8&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">1728</span>吴秀波</a></li>
+			<li id="w_id_113263685"><a href='/dict/sogou_search.php?query=%B9%E2%B9%F7%BD%DA&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">1653</span>光棍节</a></li>
 		</ul>
  
 		<ul class='hot_tag_2'>
-			<li id="w_id_112539051"><a href='/dict/sogou_search.php?query=%B9%FA%C7%EC&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">63625</span>国庆</a></li>
-			<li id="w_id_119247559"><a href='/dict/sogou_search.php?query=%C7%E9%C8%CB%BD%DA&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">32956</span>情人节</a></li>
-			<li id="w_id_111986899"><a href='/dict/sogou_search.php?query=%D4%C2%B1%FD&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">20724</span>月饼</a></li>
-			<li id="w_id_120068099"><a href='/dict/sogou_search.php?query=%C9%A8%C4%B9&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">6761</span>扫墓</a></li>
-			<li id="w_id_120527717"><a href='/dict/sogou_search.php?query=%BD%CC%CA%A6%BD%DA&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">2227</span>教师节</a></li>
-			<li id="w_id_118999349"><a href='/dict/sogou_search.php?query=%BF%AA%D1%A7%B5%DA%D2%BB%BF%CE&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">1673</span>开学第一课</a></li>
-			<li id="w_id_119035987"><a href='/dict/sogou_search.php?query=%BF%AA%D1%A7%B5%E4%C0%F1&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">792</span>开学典礼</a></li>
-			<li id="w_id_119011883"><a href='/dict/sogou_search.php?query=%B8%B5%D3%A8&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">210</span>傅莹</a></li>
-			<li id="w_id_110824632"><a href='/dict/sogou_search.php?query=%CA%CD%D3%C0%D0%C5&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">209</span>释永信</a></li>
+			<li id="w_id_112539051"><a href='/dict/sogou_search.php?query=%B9%FA%C7%EC&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">63625</span>国庆</a></li>
+			<li id="w_id_119247559"><a href='/dict/sogou_search.php?query=%C7%E9%C8%CB%BD%DA&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">32956</span>情人节</a></li>
+			<li id="w_id_111986899"><a href='/dict/sogou_search.php?query=%D4%C2%B1%FD&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">20724</span>月饼</a></li>
+			<li id="w_id_120068099"><a href='/dict/sogou_search.php?query=%C9%A8%C4%B9&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">6761</span>扫墓</a></li>
+			<li id="w_id_120527717"><a href='/dict/sogou_search.php?query=%BD%CC%CA%A6%BD%DA&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">2227</span>教师节</a></li>
+			<li id="w_id_118999349"><a href='/dict/sogou_search.php?query=%BF%AA%D1%A7%B5%DA%D2%BB%BF%CE&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">1673</span>开学第一课</a></li>
+			<li id="w_id_119035987"><a href='/dict/sogou_search.php?query=%BF%AA%D1%A7%B5%E4%C0%F1&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">792</span>开学典礼</a></li>
+			<li id="w_id_119011883"><a href='/dict/sogou_search.php?query=%B8%B5%D3%A8&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">210</span>傅莹</a></li>
+			<li id="w_id_110824632"><a href='/dict/sogou_search.php?query=%CA%CD%D3%C0%D0%C5&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">209</span>释永信</a></li>
 		</ul>
  
 		<ul class='hot_tag_3'>
-			<li id="w_id_110770458"><a href='/dict/sogou_search.php?query=%CC%EC%CC%EC%CF%F2%C9%CF&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">33627</span>天天向上</a></li>
-			<li id="w_id_110617432"><a href='/dict/sogou_search.php?query=%D6%D0%B9%FA%BA%C3%C9%F9%D2%F4&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">6147</span>中国好声音</a></li>
-			<li id="w_id_118469037"><a href='/dict/sogou_search.php?query=%B9%C5%BD%A3%C6%E6%CC%B7&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">4440</span>古剑奇谭</a></li>
-			<li id="w_id_104828374"><a href='/dict/sogou_search.php?query=%B7%D6%CA%D6%B4%F3%CA%A6&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">1322</span>分手大师</a></li>
-			<li id="w_id_120534045"><a href='/dict/sogou_search.php?query=%C7%D8%EA%BB&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">1255</span>秦昊</a></li>
-			<li id="w_id_110609044"><a href='/dict/sogou_search.php?query=%D0%C2%B8%E8%C9%F9&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">871</span>新歌声</a></li>
-			<li id="w_id_101857097"><a href='/dict/sogou_search.php?query=%D6%D2%BC%E9%C8%CB&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">213</span>忠奸人</a></li>
-			<li id="w_id_103069150"><a href='/dict/sogou_search.php?query=%B1%B1%C6%BD%CE%DE%D5%BD%CA%C2&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">153</span>北平无战事</a></li>
-			<li id="w_id_103025716"><a href='/dict/sogou_search.php?query=%BC%C3%B9%AB%BB%EE%B7%F0&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">107</span>济公活佛</a></li>
+			<li id="w_id_110770458"><a href='/dict/sogou_search.php?query=%CC%EC%CC%EC%CF%F2%C9%CF&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">33627</span>天天向上</a></li>
+			<li id="w_id_110617432"><a href='/dict/sogou_search.php?query=%D6%D0%B9%FA%BA%C3%C9%F9%D2%F4&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">6147</span>中国好声音</a></li>
+			<li id="w_id_118469037"><a href='/dict/sogou_search.php?query=%B9%C5%BD%A3%C6%E6%CC%B7&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">4440</span>古剑奇谭</a></li>
+			<li id="w_id_104828374"><a href='/dict/sogou_search.php?query=%B7%D6%CA%D6%B4%F3%CA%A6&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">1322</span>分手大师</a></li>
+			<li id="w_id_120534045"><a href='/dict/sogou_search.php?query=%C7%D8%EA%BB&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">1255</span>秦昊</a></li>
+			<li id="w_id_110609044"><a href='/dict/sogou_search.php?query=%D0%C2%B8%E8%C9%F9&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">871</span>新歌声</a></li>
+			<li id="w_id_101857097"><a href='/dict/sogou_search.php?query=%D6%D2%BC%E9%C8%CB&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">213</span>忠奸人</a></li>
+			<li id="w_id_103069150"><a href='/dict/sogou_search.php?query=%B1%B1%C6%BD%CE%DE%D5%BD%CA%C2&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">153</span>北平无战事</a></li>
+			<li id="w_id_103025716"><a href='/dict/sogou_search.php?query=%BC%C3%B9%AB%BB%EE%B7%F0&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">107</span>济公活佛</a></li>
 		</ul>
  
 		<ul class='hot_tag_4'>
-			<li id="w_id_120530845"><a href='/dict/sogou_search.php?query=%BB%C6%BE%B0%E8%A4&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">25650</span>黄景瑜</a></li>
-			<li id="w_id_108865320"><a href='/dict/sogou_search.php?query=%C3%C0%B9%FA%B6%D3%B3%A4&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">8263</span>美国队长</a></li>
-			<li id="w_id_109261116"><a href='/dict/sogou_search.php?query=%C3%C0%B6%D3&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">6475</span>美队</a></li>
-			<li id="w_id_119002789"><a href='/dict/sogou_search.php?query=%D0%EC%BC%D1%D3%A8&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">6389</span>徐佳莹</a></li>
-			<li id="w_id_112880541"><a href='/dict/sogou_search.php?query=%CD%C0%DF%CF%DF%CF&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">2552</span>屠呦呦</a></li>
-			<li id="w_id_108840542"><a href='/dict/sogou_search.php?query=%C1%F5%C7%BF%B6%AB&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">2323</span>刘强东</a></li>
-			<li id="w_id_120538783"><a href='/dict/sogou_search.php?query=%D1%EE%E7%AD&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">841</span>杨绛</a></li>
-			<li id="w_id_104215684"><a href='/dict/sogou_search.php?query=%B3%C2%C5%B7&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">834</span>陈欧</a></li>
-			<li id="w_id_119027159"><a href='/dict/sogou_search.php?query=%B3%C2%C0%D6%BB%F9&_asf=pinyin.sogou.com&_ast=1770435003' target="_blank"><span class="exponent">184</span>陈乐基</a></li>
+			<li id="w_id_120530845"><a href='/dict/sogou_search.php?query=%BB%C6%BE%B0%E8%A4&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">25650</span>黄景瑜</a></li>
+			<li id="w_id_108865320"><a href='/dict/sogou_search.php?query=%C3%C0%B9%FA%B6%D3%B3%A4&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">8263</span>美国队长</a></li>
+			<li id="w_id_109261116"><a href='/dict/sogou_search.php?query=%C3%C0%B6%D3&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">6475</span>美队</a></li>
+			<li id="w_id_119002789"><a href='/dict/sogou_search.php?query=%D0%EC%BC%D1%D3%A8&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">6389</span>徐佳莹</a></li>
+			<li id="w_id_112880541"><a href='/dict/sogou_search.php?query=%CD%C0%DF%CF%DF%CF&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">2552</span>屠呦呦</a></li>
+			<li id="w_id_108840542"><a href='/dict/sogou_search.php?query=%C1%F5%C7%BF%B6%AB&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">2323</span>刘强东</a></li>
+			<li id="w_id_120538783"><a href='/dict/sogou_search.php?query=%D1%EE%E7%AD&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">841</span>杨绛</a></li>
+			<li id="w_id_104215684"><a href='/dict/sogou_search.php?query=%B3%C2%C5%B7&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">834</span>陈欧</a></li>
+			<li id="w_id_119027159"><a href='/dict/sogou_search.php?query=%B3%C2%C0%D6%BB%F9&_asf=pinyin.sogou.com&_ast=1773372603' target="_blank"><span class="exponent">184</span>陈乐基</a></li>
 		</ul>
 	</div>
 </div>	

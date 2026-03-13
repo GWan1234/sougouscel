@@ -1,0 +1,6 @@
+'bu'men'ce'shi'wei'tong'guo 部门测试未通过
+'gao'song'dian'zi'wei'zhi'di'dian'chu'li 高松电子位置地点处理
+'gao'song'ji'shu'chong'dian'qiang 高松技术充电枪
+'shi'fou'you'ce'shi'de'fang'bian 是否有测试的方便
+'xi'tong'wu'fa'diao'yong 系统无法调用
+'xi'tong'wu'xiao'ce'shi 系统无效测试
